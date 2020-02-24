@@ -7,7 +7,7 @@ The game was released in June 2019 and was a collaboration between Agnes Vidal a
 
 ![Run Betty Run Gameplay](/images/betty_gameplay.png)
 
-![Agli Studios Logo](/images/agli_logo.png)
+![Agli Studios Logo](/images/agli_logo.png | width=100)
 
 
 *© Agnes Vidal & Lisa Wetterberg 2020*
